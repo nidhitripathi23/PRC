@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nidhitripathi23/PRC/issues"
   },
-  "homepage": "https://github.com/nidhitripathi23/PRC#readme"
+  "homepage": "https://github.com/nidhitripathi23/PRC#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
